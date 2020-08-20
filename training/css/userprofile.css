@@ -1,0 +1,30 @@
+.edit_btn1 {
+    color: white;
+    font-size: 16pt;
+    background-color: #596e79;
+    margin-top: 10pt;
+}
+
+.size_13 {
+    font-size: 13pt;
+}
+
+body {
+    background-color: #d7effc;
+}
+
+.my_card {
+    border: 40px solid #c7b198;
+    /* margin-top: 30pt; */
+    color: #596e79;
+    background-color: #f0ece3;
+    box-shadow: 0 0 20px #cd5c16;
+    box-shadow: 0 0 20px black;
+}
+
+.tittle,
+.change_password_note {
+    color: #39aa66;
+    font-size: 12pt;
+    font-weight: 700;
+}
